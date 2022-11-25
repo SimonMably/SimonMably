@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simonmably/ "LinkedIn Profile") | [Twitter](https://www.twitter.com/SimonMably "Twitter Profile")
 
-- :information_desk_person: Things that I have use used in my coding journey:
+- :information_desk_person: Things that I have used in my coding journey:
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=64px>
@@ -20,6 +20,7 @@ postgresql-original.svg
 vscode-original.svg
 gimp-original.svg
 --->
+---
 
 <!---
 SimonMably/SimonMably is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
